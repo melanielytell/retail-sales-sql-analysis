@@ -43,39 +43,66 @@ The project uses SQL techniques including:
 
 ### Customer Age Groups
 
-The analysis found differences in both customer counts and revenue across age groups.
+| Age Group | Transactions | Revenue | Avg. Transaction |
+|---|---:|---:|---:|
+| Older Adult | 225 | $97,235 | $432.16 |
+| Adult | 203 | $97,090 | $478.28 |
+| Middle Adult | 207 | $96,835 | $467.80 |
+| 55+ | 216 | $90,190 | $417.55 |
+| Young Adult | 149 | $74,650 | $501.01 |
 
-The **Older Adult** group generated the highest total revenue, while **Young Adults** had the highest average transaction amount.
+The **Older Adult** group generated the highest total revenue at **$97,235**, while **Young Adults** had the highest average transaction amount at approximately **$501**.
 
 ### Gender
 
-Female customers generated slightly more total revenue than male customers, while average spending was very similar between the two groups.
+| Gender | Revenue | Avg. Transaction |
+|---|---:|---:|
+| Female | $232,840 | $456.55 |
+| Male | $223,160 | $455.43 |
 
-### Spending Segmentation
+Female customers generated slightly more total revenue than male customers, while average transaction amounts were nearly identical.
 
-Customers were categorized into High, Medium, and Low spending groups.
+### Customer Spending Segments
 
-The High Spender segment generated a disproportionately large share of total revenue despite representing a much smaller portion of customers.
+| Segment | Customers | Revenue | Avg. Customer Spending |
+|---|---:|---:|---:|
+| High | 202 | $286,800 | $1,419.80 |
+| Medium | 194 | $116,100 | $598.45 |
+| Low | 604 | $53,100 | $87.91 |
 
-### Product Categories
+The **High Spender** segment contained only 202 customers but generated **$286,800 in revenue**, making this group particularly important from a customer-value perspective.
 
-The strongest-performing product category varied across age groups, demonstrating that purchasing behavior differs among customer segments.
+### Top Product Categories by Age Group
+
+The highest-revenue category differed across age groups:
+
+- **55+** — Electronics: $38,210
+- **Adult** — Clothing: $41,640
+- **Middle Adult** — Electronics: $36,460
+- **Older Adult** — Beauty: $35,950
+- **Young Adult** — Beauty: $28,905
+
+This suggests that product preferences vary across customer age groups.
 
 ### Monthly Revenue
 
-Revenue varied considerably throughout the year, with some months substantially outperforming others.
+Monthly revenue varied substantially throughout the year.
+
+**Highest revenue month:** May — **$53,150**
+
+**Lowest revenue month:** September — **$23,620**
+
+This represents a difference of **$29,530** between the strongest and weakest months.
 
 ## Business Insights
 
-The analysis suggests that customer segmentation can help identify high-value customers and differences in purchasing behavior.
+Based on the analysis, several potential business opportunities emerge:
 
-Understanding these patterns could help a retailer:
-
-- Target high-value customers
-- Develop age-specific marketing strategies
-- Identify strong and weak sales periods
-- Optimize product promotions
-- Better understand customer purchasing behavior
+- Focus customer-retention efforts on high-value customers.
+- Consider age-specific product promotions based on category preferences.
+- Investigate the factors contributing to strong May sales.
+- Explore why September revenue was substantially lower.
+- Use customer spending segments to develop targeted marketing strategies.
 
 ## Repository Structure
 
