@@ -1,12 +1,12 @@
 # Retail Sales SQL Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes retail sales data using SQL to explore customer behavior, spending patterns, product performance, and revenue trends.
 
 The analysis uses a retail sales dataset containing customer demographics, product categories, transaction information, and purchase amounts.
 
-## 🎯 Objectives
+## Objectives
 
 The analysis investigates questions such as:
 
@@ -18,13 +18,13 @@ The analysis investigates questions such as:
 - How does revenue change throughout the year?
 - Which months and categories generate the most revenue?
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - MySQL
 - SQL
 - MySQL Workbench
 
-## 🔎 Analysis
+## Analysis
 
 The project uses SQL techniques including:
 
@@ -39,7 +39,7 @@ The project uses SQL techniques including:
 - Data segmentation
 - Date-based analysis
 
-## 📈 Key Findings
+## Key Findings
 
 ### Customer Age Groups
 
@@ -65,7 +65,7 @@ The strongest-performing product category varied across age groups, demonstratin
 
 Revenue varied considerably throughout the year, with some months substantially outperforming others.
 
-## 💡 Business Insights
+## Business Insights
 
 The analysis suggests that customer segmentation can help identify high-value customers and differences in purchasing behavior.
 
@@ -77,7 +77,7 @@ Understanding these patterns could help a retailer:
 - Optimize product promotions
 - Better understand customer purchasing behavior
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 retail-sales-sql-analysis/
