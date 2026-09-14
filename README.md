@@ -149,6 +149,24 @@ Based on the analysis, several potential business opportunities emerge:
 - Explore why September revenue was substantially lower.
 - Use customer spending segments to develop targeted marketing strategies.
 
+## ⚠️ Limitations
+
+- The dataset contains only 1,000 transactions, so the findings may not generalize to a larger customer population.
+- The dataset does not include information such as profit, discounts, marketing activity, inventory, or geographic location.
+- Revenue analysis shows sales performance but does not measure profitability.
+- The dataset covers a single year, limiting the ability to identify longer-term trends.
+
+## 🔎 Next Questions
+
+This analysis could be extended by investigating:
+
+- Which products or customer segments generate the highest profit?
+- What factors contributed to the unusually high revenue in May?
+- Why was September revenue substantially lower?
+- Do purchasing patterns differ by gender within each age group?
+- Which customers are most likely to make repeat purchases?
+- Can customer behavior be used to predict future spending?
+
 ## Repository Structure
 
 ```text
