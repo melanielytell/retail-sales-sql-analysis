@@ -125,6 +125,20 @@ Monthly revenue varied substantially throughout the year.
 
 This represents a difference of **$29,530** between the strongest and weakest months.
 
+## 📊 Visual Results
+
+### Revenue by Age Group
+
+![Revenue by Age Group](visualizations/revenue_by_age_group.png)
+
+The Older Adult group generated the highest total revenue, while Young Adults had the lowest total revenue but the highest average transaction amount.
+
+### Monthly Revenue
+
+![Monthly Revenue](visualizations/monthly_revenue.png)
+
+Monthly revenue varied throughout the year, with May generating the highest revenue and September generating the lowest.
+
 ## Business Insights
 
 Based on the analysis, several potential business opportunities emerge:
